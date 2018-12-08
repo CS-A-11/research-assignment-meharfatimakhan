@@ -1,2 +1,2 @@
 # research-assignment-meharfatimakhan
-research-assignment-meharfatimakhan created by GitHub Classroom
+This assignment contains answers to all 8 questions asked in the research assignment document.
